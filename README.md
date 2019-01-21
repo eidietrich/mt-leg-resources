@@ -18,6 +18,12 @@ http://laws.leg.mt.gov/legprd/LAW0217W$BAIV.return_all_bills?P_SESS=20191
 (Can enter dates without specifying committee name to get a complete calendar for a specific date range)
 http://laws.leg.mt.gov/legprd/law0240w$cmte.startup?P_SESS=20191
 
+### House floor agenda
+http://laws.leg.mt.gov/legprd/laws_agendas.agendarpt?chamber=H&P_SESS=20191
+
+### Senate floor agenda
+http://laws.leg.mt.gov/legprd/laws_agendas.agendarpt?chamber=S&P_SESS=20191
+
 ## Watch legislative hearings online
 http://sg001-harmony.sliq.net/00309/Harmony/en
 
