@@ -31,6 +31,13 @@ http://sg001-harmony.sliq.net/00309/Harmony/en
 Department responsible for helping legislators (and everyone else) understand what's going on with the budget. Webpage has a wealth of information. (Note appropriation subcommittee materials tab, specifically — for 2019, their initial overall budget report is listed there as "Volume 1: Statewide Perspectives" under the "Budget Analysis" header.
 https://leg.mt.gov/lfd/
 
+## Governor's Office of Budget & Program Planning
+Office that develops executive budget, which is used as a starting point by the Legislature. Also drafts fiscal notes that analyze bills' funding impact.
+http://budget.mt.gov/
+
+### Gov's 2020/2021 budget proposal
+http://budget.mt.gov/Budgets/2021_Budget
+
 ## Other resources
 
 ### Legislative Roster
