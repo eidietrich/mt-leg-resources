@@ -63,3 +63,7 @@ https://leg.mt.gov/lad/audit-reports/
 ### Archived state agency websites
 Via Montana State Library
 http://research.msl.mt.gov/state_publications/mtgov_connect/browse_web_archive
+
+### Legislator's Handbook
+Published by the Legislative Service Division
+https://leg.mt.gov/content/For-Legislators/Orientation/guide/2018-leg-handbook-FINAL.pdf
